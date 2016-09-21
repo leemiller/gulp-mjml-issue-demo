@@ -1,0 +1,9 @@
+<mjml>
+    <mj-body>
+        <mj-container>
+            <mj-section>
+                <mj-text>This text should be visible.</mj-text>
+            </mj-section>
+        </mj-container>
+    </mj-body>
+</mjml>

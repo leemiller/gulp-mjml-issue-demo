@@ -1,0 +1,15 @@
+{
+  "name": "gulp-mjml-text-wrapping-issue",
+  "version": "1.0.0",
+  "description": "Demonstration of an issue in gulp-mjml when using mjml 2.3.3. Text in components get doubly wrapped in a CDATA tag, but only one of them are removed at the end of rendering.",
+  "dependencies": {
+    "mjml": "2.3.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mjml": "^1.0.1",
+    "gulp-plumber": "^1.1.0"
+  },
+  "author": "Lee Miller",
+  "license": "MIT"
+}
